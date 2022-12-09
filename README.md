@@ -1,4 +1,4 @@
-<div style=" border: 1px solid #ccc;">
+<div >
 <img src='images/q9iHSm.png' />
   <h2>Transformers and Self Attention</h2>
   <p>Isack Odero</p>
