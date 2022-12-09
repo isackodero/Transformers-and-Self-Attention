@@ -1,5 +1,3 @@
-# Transformers-and-Self-Attention
-Pycon 2022 
 <div style="width: 300px; padding: 20px; border: 1px solid #ccc;">
   <h2>Transformers and Self Attention</h2>
   <p>Isack Odero</p>
