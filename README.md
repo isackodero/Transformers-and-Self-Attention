@@ -14,14 +14,33 @@
 
 <div class="text text-center">
 	<h2>EARLY ON</h2>
-	<p>Let Start with this Motivation from OpenAI to bust our Energy.</p>
-	<p>
-		Just Last week OpenAI have introduced an “Optimizing Language Models for Dialogue” And it is called ChatGPT
-	</p>
-	
-	<p>
-	“We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer follow up questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.”
-	</p>
+	<h3>LSTM</h3>
+	 <table>
+		
+		<tr>
+		<td><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
+		<td><img src='images/Screenshot from 2022-12-07 02-36-43.png'></td>
+		<td>
+			<p>There were LSTM and RNN models that together are called Sequence 				Models.
+			</p>
+			<ol>
+				<lh>
+				These models have main four goals.
+				</lh>
+				<li>
+				Track Long Term Dependencies.
+				</li>
+				<li>
+				Maintain Information about order
+				</li>
+				<li>
+				Share parameters across the sequence
+				</li>
+			</ol>
+		</td>
+		</tr>
+		
+	</table> 
 	
 </div>
 
