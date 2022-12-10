@@ -53,7 +53,7 @@
 		<img src='images/Screenshot from 2022-12-07 03-20-45.png'>
 		</td>
 		<td>
-			<p>RNN have a internal state  called h_t that is updated at each 			   time step as a sequence is processed.
+			<p>RNN have a internal state  called h_t that is updated at each time step as a sequence is processed.
 			</p>
 			<p>
 			This help to add the concept of memory in Neural Network.
@@ -64,7 +64,7 @@
 		</td>
 		</tr>
 		<tr>
-		<img src='images/Screenshot from 2022-12-07 04-38-51.png'>
+			<td><img src='images/Screenshot from 2022-12-07 04-38-51.png'></td>
 		</tr>
 	</table> 
 </div>
