@@ -17,9 +17,9 @@
 	<h3>LSTM & RNN</h3>
 	 <table style='border: 0px'>
 		 <tr style='border: 0px'>
-		<td><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
-		<td><img src='images/Screenshot from 2022-12-07 02-36-43.png'></td>
-		<td>
+		<td style='border: 0px'><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
+		<td style='border: 0px'><img src='images/Screenshot from 2022-12-07 02-36-43.png'></td>
+		<td style='border: 0px'>
 			<p>There were LSTM and RNN models that together are called Sequence 				Models.
 			</p>
 			<ul>
