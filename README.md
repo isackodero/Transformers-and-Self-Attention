@@ -4,11 +4,11 @@
 	<h2>Overview</h2>
 	<p>Let Start with this Motivation from OpenAI to bust our Energy.</p>
 	<p>
-		Just Last week OpenAI have introduced an “Optimizing Language Models for Dialogue” And it is called ChatGPT
+		Just Last week OpenAI have introduced an 'Optimizing Language Models for Dialogue' And it is called ChatGPT
 	</p>
 	
 	<p>
-	“We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer follow up questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.”
+	'We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer follow up questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.'
 	</p>
 	
 </div>
