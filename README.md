@@ -2,9 +2,7 @@
 <html>
 <head>
 <style>
-table, th, td {
-  border: 0px solid black;
-}
+table, th, td {border: 0px solid black;}
 </style>
 </head>
 <body>
