@@ -1,8 +1,8 @@
 
 <img src='images/q9iHSm.png' style='width=20px'/><br><h1>Transformer and Self Attention</h1><br><p>Isack odero</p>
 
-<div class="row no-gutters js-fullheight justify-content-center align-items-center">
-          <div class="col ftco-animate d-flex align-items-center">
+<div class="row  justify-content-center align-items-center">
+          <div class="col align-items-center">
           	<div class="text text-center">
           		<span class="subheading">Hey! I am</span>
 		  				<h1>Isack Odero</h1>
