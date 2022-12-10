@@ -14,7 +14,7 @@
 
 <div class="text text-center">
 	<h2>EARLY ON</h2>
-	<h3>LSTM</h3>
+	<h3>LSTM & RNN</h3>
 	 <table>
 		 <tr>
 		<td><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
@@ -22,7 +22,7 @@
 		<td>
 			<p>There were LSTM and RNN models that together are called Sequence 				Models.
 			</p>
-			<ol>
+			<ul>
 				<lh>
 				These models have main four goals.
 				</lh>
@@ -35,7 +35,29 @@
 				<li>
 				Share parameters across the sequence
 				</li>
-			</ol>
+			</ul>
+		</td>
+		</tr>
+	</table> 
+</div>
+
+
+<div class="text text-center">
+	<h2>Understand History</h2>
+	 <table>
+		<tr>
+		<td>1986</td>
+		<td>RNN</td>
+		<td><img src='images/Screenshot from 2022-12-07 03-20-04.png'><img src='images/Screenshot from 2022-12-07 03-20-45.png'></td>
+		<td>
+			<p>RNN have a internal state  called h_t that is updated at each 			   time step as a sequence is processed.
+			</p>
+			<p>
+			This help to add the concept of memory in Neural Network.
+			</p>
+			<p>
+			Where is what we call Recurrence.
+			</p>
 		</td>
 		</tr>
 	</table> 
