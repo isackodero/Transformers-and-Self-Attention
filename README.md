@@ -12,12 +12,10 @@
 	
 </div>
 
-<div class="text text-center">
+<div class="text text-center" style='table, th, td {border: 0px solid black;}'>
 	<h2>EARLY ON</h2>
 	<h3>LSTM & RNN</h3>
-	 <table  style='table, th, td {
-  border: 0px solid black;
-}'>
+	 <table >
 		 <tr>
 		<td><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
 		<td><img src='images/Screenshot from 2022-12-07 02-36-43.png'></td>
