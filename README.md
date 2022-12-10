@@ -15,7 +15,7 @@
 <div class="text text-center">
 	<h2>EARLY ON</h2>
 	<h3>LSTM & RNN</h3>
-	 <table>
+	 <table  style='td, th:0px'>
 		 <tr>
 		<td><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
 		<td><img src='images/Screenshot from 2022-12-07 02-36-43.png'></td>
@@ -44,7 +44,7 @@
 
 <div class="text text-center">
 	<h2>Understand History</h2>
-	 <table>
+	 <table style='td, th:0px'>
 		<tr>
 		<td>1986</td>
 		<td>RNN</td>
@@ -63,9 +63,11 @@
 			</p>
 		</td>
 		</tr>
+		 <tfoot>
 		<tr>
 			<td><img src='images/Screenshot from 2022-12-07 04-38-51.png'></td>
 		</tr>
+		 </tfoot>
 	</table> 
 </div>
 
