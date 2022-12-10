@@ -16,8 +16,7 @@
 	<h2>EARLY ON</h2>
 	<h3>LSTM</h3>
 	 <table>
-		
-		<tr>
+		 <tr>
 		<td><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
 		<td><img src='images/Screenshot from 2022-12-07 02-36-43.png'></td>
 		<td>
@@ -39,9 +38,7 @@
 			</ol>
 		</td>
 		</tr>
-		
 	</table> 
-	
 </div>
 
 
