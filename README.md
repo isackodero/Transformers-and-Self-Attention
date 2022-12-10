@@ -1,4 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+	
 <img src='images/q9iHSm.png' style='width=20px'/><br><h1>Transformer and Self Attention</h1><br><p>Isack odero</p>
 <div class="text text-center">
 	<h2>Overview</h2>
@@ -71,6 +81,8 @@
 	</table> 
 </div>
 
+</body>
+</html>
 
 
 
