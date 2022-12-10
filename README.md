@@ -1,20 +1,14 @@
 
 <img src='images/q9iHSm.png' style='width=20px'/><br><h1>Transformer and Self Attention</h1><br><p>Isack odero</p>
 
-<div class="row no-gutters slider-text js-fullheight justify-content-center align-items-center">
-          <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-center">
+<div class="row no-gutters js-fullheight justify-content-center align-items-center">
+          <div class="col ftco-animate d-flex align-items-center">
           	<div class="text text-center">
           		<span class="subheading">Hey! I am</span>
 		  				<h1>Isack Odero</h1>
-			  				<h2>I'm a 
-								  <span
-								     class="txt-rotate"
-								     data-period="2000"
-								     data-rotate='[ "Machine Learning Engineer.", "Data Scientist.",  "Blogger" ]'></span>
-								</h2>
-							</div>
-            </div>
-          </div>
+		</div>
+    	  </div>
+</div>
 
 
 
