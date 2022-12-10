@@ -16,7 +16,7 @@
 	<h2>EARLY ON</h2>
 	<h3>LSTM & RNN</h3>
 	 <table style='border: 0px'>
-		 <tr>
+		 <tr style='border: 0px'>
 		<td><img src='images/Screenshot from 2022-12-07 02-40-00.png'></td>
 		<td><img src='images/Screenshot from 2022-12-07 02-36-43.png'></td>
 		<td>
