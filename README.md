@@ -48,7 +48,10 @@
 		<tr>
 		<td>1986</td>
 		<td>RNN</td>
-		<td><img src='images/Screenshot from 2022-12-07 03-20-04.png'><img src='images/Screenshot from 2022-12-07 03-20-45.png'></td>
+		<td>
+		<img src='images/Screenshot from 2022-12-07 03-20-04.png'>
+		<img src='images/Screenshot from 2022-12-07 03-20-45.png'>
+		</td>
 		<td>
 			<p>RNN have a internal state  called h_t that is updated at each 			   time step as a sequence is processed.
 			</p>
